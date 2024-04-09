@@ -1,0 +1,11 @@
+[package]
+name = "damn-it"
+version = "0.1.0"
+edition = "2021"
+description = "Damn it"
+homepage = "https://github.com/chenyuanrun/damn-it.git"
+repository = "https://github.com/chenyuanrun/damn-it.git"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
